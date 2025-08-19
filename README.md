@@ -1,4 +1,4 @@
-# Foro_Hub 💬 - API REST para Gestión de Tópicos
+# Foro_Hub 💬 - API REST  Gestión de Tópicos
 
 Foro_Hub es una API REST desarrollada en Java con Spring Boot, diseñada para la gestión de tópicos de discusión. Permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre los tópicos, incluyendo funcionalidades de listado con paginación y búsqueda, así como un manejo robusto de excepciones. El proyecto sigue principios de diseño de API REST y buenas prácticas de desarrollo.
 
